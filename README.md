@@ -13,6 +13,7 @@
 
 **Flowchart Program**
 ![Flowchart] (https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan1/Flowchart%20Latihan1.png)
+(https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan2/Flowchart%20Latihan2.png)
 
 **code program lengkap:**
 ```c++
