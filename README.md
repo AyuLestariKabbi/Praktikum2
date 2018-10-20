@@ -12,7 +12,7 @@
 5. Kondisi **False**, maka bandingkan nilai variabel **B** dengan **C**
 
 **Flowchart Program**
-![Flowchart] (https://raw.githubusercontent.com/AyuLestariKabbi/praktikum2/master
+![Flowchart] (https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan1/Flowchart%20Latihan1.png)
 
 **code program lengkap:**
 ```c++
@@ -47,8 +47,9 @@ int main() {
 9. dan jika kondisi False maka cetaklah D
 
 **Flowchart Program**
+![Flowchart] (https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan2/Flowchart%20Latihan2.png)
 
-**code program lengkap:88
+**code program lengkap:
 ```c++
 #include<iostream>
 
