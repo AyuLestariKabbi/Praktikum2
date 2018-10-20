@@ -33,7 +33,7 @@ int main() {
     cin >> C;
 
 hasilnya
-![ing](https:
+![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan1/Screenshot%20(4).png)
 
 ## Latihan2.cpp : Program Menghitung Bilangan Terbesar dari 4 Bilangan
  
@@ -84,5 +84,5 @@ int main() {
 }
 
 hasilnya
-![ing](https:
+![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan2/Screenshot%20(5).png)
 
