@@ -12,8 +12,7 @@
 5. Kondisi **False**, maka bandingkan nilai variabel **B** dengan **C**
 
 **Flowchart Program**
-![Flowchart] (https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan1/Flowchart%20Latihan1.png)
-(https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan2/Flowchart%20Latihan2.png)
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan1/Flowchart%20Latihan1.png)
 
 **code program lengkap:**
 ```c++
@@ -33,6 +32,9 @@ int main() {
     cout << "masukan bilangan 3: ";
     cin >> C;
 
+hasilnya
+![ing](https:
+
 ## Latihan2.cpp : Program Menghitung Bilangan Terbesar dari 4 Bilangan
  
 **Alur Algoritma
@@ -48,7 +50,7 @@ int main() {
 9. dan jika kondisi False maka cetaklah D
 
 **Flowchart Program**
-![Flowchart] (https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan2/Flowchart%20Latihan2.png)
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan2/Flowchart%20Latihan2.png)
 
 **code program lengkap:
 ```c++
@@ -80,3 +82,7 @@ int main() {
             cout << "Bilangan terbesar adalah = " << D;
     }
 }
+
+hasilnya
+![ing](https:
+
