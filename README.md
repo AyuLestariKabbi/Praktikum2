@@ -32,6 +32,21 @@ int main() {
     cout << "masukan bilangan 3: ";
     cin >> C;
 
+    if (A > B) {
+        if (A > C)
+            cout << "bilangan terbesar adalah: " << A << endl;
+        else
+            cout << "bilangan terbesar adalah: " << C << endl;
+    } else {
+        if (B > C)
+            cout << "bilangan terbesar adalah: " << B << endl;
+        else
+            cout << "bilangan terbesar adalah: " << C << endl;
+    }
+}
+```
+
+
 hasilnya
 ![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan1/Screenshot%20(4).png)
 
@@ -82,6 +97,8 @@ int main() {
             cout << "Bilangan terbesar adalah = " << D;
     }
 }
+```
+
 
 hasilnya
 ![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum2/master/Latihan2/Screenshot%20(5).png)
